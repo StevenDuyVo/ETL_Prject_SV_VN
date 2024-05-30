@@ -1,1 +1,1 @@
-Together, Victor Nguduba and Steven Vo completed ETL_Project using class resources such as instructor aid and previous zoom recordings. As well as using ChatGPT and Xpert Learning Tool to help assist in coding. 
+Together, Victor Nduaguba and Steven Vo completed ETL_Project using class resources such as instructor aid and previous zoom recordings. As well as using ChatGPT and Xpert Learning Tool to help assist in coding. 
